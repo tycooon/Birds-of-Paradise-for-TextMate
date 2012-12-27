@@ -15,7 +15,7 @@ Sublime Text 2 Installation
 1. Download the zipped package from GitHub.
 2. Unzip or unpack the package if it isn't already. 
 3. Copy the file `Birds of Paradise.tmTheme` to `~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Birds\ of\ Paradise.tmTheme`.
-4. Open Sublime Text 2, from the _Sublime Text 2_ menu choose _Preferences_ and then _Settings - User_. Add (or update) your theme entry to be `"theme": "Packages/Birds of Paradise.tmTheme"`.
+4. Open Sublime Text 2, from the _Sublime Text 2_ menu choose _Preferences_ and then _Settings - User_. Add (or update) your theme entry to be `"color_scheme": "Packages/Birds of Paradise.tmTheme"`.
 
 
 ### Example User Settings
