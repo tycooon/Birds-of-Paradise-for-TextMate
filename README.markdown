@@ -1,13 +1,29 @@
-Birds of Paradise for TextMate: A Light-On-Dark TextMate Theme based on Birds of Paradise for Coda
-==================================================================================================
+Birds of Paradise for TextMate: A Light-On-Dark TextMate / Sublime Text 2 Theme
+===============================================================================
 
-Installation
-------------
+TextMate Installation
+---------------------
 
-1. Download the package from GitHub. 
+1. Download the zipped package from GitHub. 
 2. Unzip or unpack the package if it isn't already. 
 3. Copy the file `Birds of Paradise.tmTheme` to `~/Library/Application\ Support/TextMate/Themes/Birds\ of\ Paradise.tmTheme`.
 4. Open TextMate, from the _TextMate_ menu choose _Preferences_ and then the _Fonts and Colors_ tab. From the select menu choose _Birds of Paradise_.
+
+Sublime Text 2 Installation
+---------------------------
+
+1. Download the zipped package from GitHub.
+2. Unzip or unpack the package if it isn't already. 
+3. Copy the file `Birds of Paradise.tmTheme` to `~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Birds\ of\ Paradise.tmTheme`.
+4. Open Sublime Text 2, from the _Sublime Text 2_ menu choose _Preferences_ and then _Settings - User_. Add (or update) your theme entry to be "theme": "Packages/Birds of Paradise.tmTheme".
+
+
+### Example User Settings
+
+    { 
+      "color_scheme": "Packages/Birds of Paradise.tmTheme",
+    }
+
 
 Problems
 --------
